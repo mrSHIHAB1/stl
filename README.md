@@ -2,7 +2,7 @@
 
 # Basics of C++
 
-Introduction and Basic I/O
+Introduction And Basic I/O
 
 Variables 
 
